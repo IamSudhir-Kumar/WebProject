@@ -1,0 +1,1 @@
+{    "ModelSelector": {        "highlightColor": {            "type": "col"        },        "start": {            "type": "fn"        },        "onPointerDown": {            "type": "fn"        },        "getSelectableObjects": {            "type": "fn"        }    }}

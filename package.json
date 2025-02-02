@@ -1,0 +1,22 @@
+{
+  "name": "my-needle-engine-blender-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite --host",
+    "build:dev": "vite build",
+    "build:production": "vite build -- --production"
+  },
+  "dependencies": {
+    "@needle-tools/engine": "^3.51.0",
+    "three": "npm:@needle-tools/three@^0.162.9"
+  },
+  "devDependencies": {
+    "@needle-tools/helper": "^1.8.0",
+    "@needle-tools/needle-component-compiler": "^2.4.1-pre",
+    "@types/three": "0.162.0",
+    "@vitejs/plugin-basic-ssl": "^1.0.1",
+    "typescript": "^5.0.4",
+    "vite": "<= 4.3.9",
+    "vite-plugin-compression": "^0.5.1"
+  }
+}

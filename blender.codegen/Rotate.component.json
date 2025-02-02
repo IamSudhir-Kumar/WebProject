@@ -1,0 +1,1 @@
+{    "Rotate": {        "speed": {            "type": "float",            "value": 1        },        "update": {            "type": "fn"        }    }}

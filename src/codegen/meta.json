@@ -1,0 +1,14 @@
+{
+    "gzip": false,
+    "useRapier": false,
+    "license": {
+        "id": "",
+        "key": ""
+    },
+    "generator": "Needle Engine for Blender 0.52.5",
+    "meta": {
+        "title": "Valentine Template VR  (2)",
+        "description": "Built with Needle Engine for Blender",
+        "image": "include/poster.webp"
+    }
+}
