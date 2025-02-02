@@ -1,5 +1,5 @@
 node_modules/
-assets/
+
 src/generated/
 dist/
 stats.html
